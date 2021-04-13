@@ -1,0 +1,18 @@
+
+.CategoryCols h1{
+    text-align:center;
+   
+}
+.CategoryCols img{
+    max-width:100%;
+    height:300px;
+    margin-bottom: 20px;
+  
+   
+}
+.CategoryCols h4{
+    text-align:center;
+}
+.cate{
+    display:flex;
+}

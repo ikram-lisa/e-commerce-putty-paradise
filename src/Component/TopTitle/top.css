@@ -1,0 +1,13 @@
+.top{
+    background-color: rgb(221, 221, 221);
+    padding: 20px;
+
+}
+.top h2{
+    font-size: 2rem;
+    margin-left: 30px;
+}
+.top ul{
+    list-style: none;
+    display: flex;
+}

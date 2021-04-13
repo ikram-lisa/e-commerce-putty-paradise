@@ -1,0 +1,40 @@
+.containerMain{
+    background-image: url('https://readlagom.com/images/PotteryWest_HR-136.jpg');
+    background-position:bottom;
+    background-size: cover;
+    height:500px;
+    padding: 50px;
+}
+.containerMain h1,h3,p{
+    color:white;
+    text-transform: capitalize;
+    padding-bottom: 20px;
+
+}
+
+
+
+.categories {
+    display: flex;
+}
+.historyContainer{
+    display: flex;
+    justify-content: center;
+}
+.historyContainer img{
+    max-width: 100%;
+    height:300px;
+}
+.historyContainer p{
+    color:black;
+    text-align: justify;
+
+}
+
+.carousel-item img{
+ max-width: 200px;
+ border-radius: 50%;
+ height:200px;
+ margin: 0 auto;
+}
+

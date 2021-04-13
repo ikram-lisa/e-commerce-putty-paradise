@@ -1,0 +1,27 @@
+.Card {
+    position: absolute;
+    top:70px;
+    right: 0;
+    width: 250px;
+    height: 400px;
+    background-color: #f8f9fa;
+    overflow-y: scroll;
+    z-index: 999;
+    padding: 20px;
+}
+.product-cart{
+    width:100%;
+    margin-bottom:15px;
+    display:flex;
+    justify-content:space-between;
+}
+.cart-items{
+    width:100%;
+}
+.product-cart img {
+    width:30%;
+    height:60px
+}
+.product-cart-content {
+    width:65%;
+}
