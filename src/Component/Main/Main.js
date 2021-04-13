@@ -35,7 +35,7 @@ const Main = () => {
                 <div className="container">
                         <div className="row">
                             <div className="col-12 col-md-8 col-lg-8 pt-5">
-                                <h1>Welcome to Putty Paradise</h1>
+                                <h1>Welcome to Potty Paradise</h1>
                                 <h3>Where Everything Made Width Love </h3>
                                 <p>Every item created in our studio is carefully created with a focus on the smallest details.</p>
                                 <Link to="/shop" className="nav-link"><button className="btn" style={{backgroundColor:"#556b69",color:"white",borderColor:"#556b69",boxShadow: "0 0 0 0.25rem #556b69"}}>See our collection</button></Link>

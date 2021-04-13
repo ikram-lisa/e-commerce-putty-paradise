@@ -29,7 +29,7 @@ const Header = (props) => {
             </ul> */}
             <nav className="navbar navbar-expand-lg navbar-light bg-light">
                 <div className="container-fluid">
-                    <Link to="/" className="navbar-brand"  style={{fontWeight:"bold"}}><i class="fab fa-slack" style={{fontSize:"2rem",color:"#354947",paddingRight:"10px",verticalAlign:"center"}}></i><span style={{verticalAlign:"center"}}>Potty Paradise</span></Link>
+                    <Link to="/" className="navbar-brand"  style={{fontWeight:"bold"}}><i class="fab fa-slack" style={{fontSize:"2rem",color:"#354947",paddingRight:"10px",verticalAlign:"center"}}></i><span style={{verticalAlign:"center"}}>Putty Paradise</span></Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" style={{color:"#f8f9fa",borderColor:"#f8f9fa"}}>
                     <i class="fas fa-bars" style={{color:"black",fontSize:"2rem"}}></i>
                     </button>
@@ -40,7 +40,7 @@ const Header = (props) => {
                             <Link to="/" className="nav-link active" aria-current="page" href="#">Home</Link>
                             </li>
                             <li className="nav-item">
-                            <Link to="/shop" className="nav-link" href="#">shop</Link>
+                            <Link to="/shop" className="nav-link">shop</Link>
                             </li>
                         
                         {/* <div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
